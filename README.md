@@ -25,7 +25,7 @@
 
 Feel free to reach out for vibrant discussions or any questions in these areas! 🚀
 
--📧 Email: [18kirankumar.k03@gmail.com](mailto:18kirankumar.k03@gmail.com)
+-📧 Email: [shamshuddinsam4@gmail.com](mailto:shamshuddinsam4@gmail.com)
 
 - ⚡ 🌟 Nocturnal coder: Unleashing tech magic during late-night hours. 🌙💻
 
