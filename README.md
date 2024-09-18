@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/shamshusam/badges/blob/main/BANNER7.png" alt="Logo">
+  <img src="https://github.com/shamshusam/badges/blob/main/Untitled design.png" alt="Logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm SHAMSHUDDIN </h1>
