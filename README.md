@@ -6,8 +6,7 @@
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">🔒🐧 Linux Defender | Digital Guardian | Uncovering vulnerabilities with precision | 🌐 Safeguarding the digital landscape | #SecurityProtector #CyberDefender
-</h3></br>
+<h3 align="center" style="color: #4CAF50;">🔒💻 ECE Enthusiast | Your Digital Guardian | 🔍 Uncovering Vulnerabilities with Precision | 🌐 Innovating the Digital Landscape </h3></br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
