@@ -99,6 +99,8 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shamshusam&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
