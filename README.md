@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
+
 </div>
 
 <h1 align="center">Hi 👋, I'm SHAMSHUDDIN </h1>
@@ -18,7 +20,6 @@
 - 💬 **Let's talk about:**
   - 🌐 Cybersecurity & Ethical Hacking
   - 💻 Python, C, Bash Scripting
-  - 🐧 Linux Customization & Servers
   - 🚀 GitHub Contributions & Open Source
   - 🔧 Tech Stack Recommendations
 
