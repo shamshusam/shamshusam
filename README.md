@@ -51,6 +51,7 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   </span>
 
+
   <span align="center" width="96">
     <a href="#macropower-tech">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
@@ -72,9 +73,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
   </span>
 </p>
 
-
-
-
 # 📊 GitHub Stats:
 <details>
   <summary>GitHub Profile Stats 💻</summary>
@@ -91,7 +89,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shamshusam&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shamshusam&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamshusam&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
