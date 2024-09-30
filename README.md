@@ -40,38 +40,36 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 # 💻 Tech Stack:
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <span align="center" width="96">
+<p>
+  <span width="96">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     </a>
   </span>
   
-  <span align="center" width="96">
+  <span width="96">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   </span>
 
-
-  <span align="center" width="96">
+  <span width="96">
     <a href="#macropower-tech">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
     </a>
   </span>
-</p>
 
-<p align="left">
-  <span align="center" width="96">
+  <span width="96">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
   </span>
 
-  <span align="center" width="96">
+  <span width="96">
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
   </span>
 
-  <span align="center" width="96">
+  <span width="96">
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
   </span>
 </p>
+
 
 # 📊 GitHub Stats:
 <details>
