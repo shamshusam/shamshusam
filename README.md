@@ -11,6 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <details>
+  
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=shamshusam&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
