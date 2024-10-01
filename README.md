@@ -10,7 +10,6 @@
 <h3 align="center" style="color: #4CAF50;">🔒💻 ECE Enthusiast | Your Digital Guardian | 🔍 Uncovering Vulnerabilities with Precision | 🌐 Innovating the Digital Landscape </h3></br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
