@@ -50,7 +50,7 @@ I am an Electronics and Communication Engineer eager to apply my expertise in Io
 ## 💼 Work Experience
 
 **Intern, GTTC Mysore**  
-_June 2023 – September 2023_  
+_oct2023 – november 2023_  
 - Worked on IoT and PLC-based automation projects.  
 - Gained practical skills in designing, programming, and troubleshooting advanced automation systems.
 
