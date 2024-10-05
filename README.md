@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <details>
-  
+
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=shamshusam&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
@@ -90,7 +90,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shamshusam&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamshusam&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shamshusam&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
