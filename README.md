@@ -3,7 +3,6 @@
 
 </div>
 
-
 <h1 align="center">Hi 👋, I'm SHAMSHUDDIN </h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -69,7 +68,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
   </span>
 </p>
-
 
 # 📊 GitHub Stats:
 <details>
