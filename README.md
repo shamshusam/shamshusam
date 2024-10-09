@@ -78,7 +78,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
   <br/>
 </details>
 
-
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
