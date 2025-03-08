@@ -128,3 +128,6 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 - **Trophies & Activity:** Showcased your GitHub trophies and activity to make the profile even more visually appealing.
 
 This will give your profile a more polished look and help you make a strong first impression on GitHub visitors.
+<!--
+     Thanks for being my guest <3
+-->
