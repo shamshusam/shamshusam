@@ -1,8 +1,17 @@
-<div align="center">
-  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
-</div>
+<!--
+    Hey there, I'm Shamhsuddin! 
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @shamshuddin19 :)) 
+-->
 
-<h1 align="center">Hi 👋, I'm **SHAMSHUDDIN**</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Shamshuddin+Sam;Electronics+Engineer" alt="Electronic Engg"/> 
+</a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
