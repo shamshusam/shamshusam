@@ -1,5 +1,5 @@
 <!--
-    Hey there, I'm Shamhsuddin! 
+    Hey there, I'm Shamshuddin! 
     Happy to see you here exploring my README code
     Feel free to inspire!
     
@@ -16,6 +16,26 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+---
+
+## 🎯 **GATE 2025 Achievement**  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/201530693-1e54d95a-635c-4ccf-8b35-3e5c47b2f91e.gif" width="400">
+</p>
+
+<h1 align="center">🥇 GATE 2025 Qualified! 🥇</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GATE_2025_Rank-6287-purple?style=for-the-badge&logo=codeforces&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/GATE_2025_Score-412-red?style=for-the-badge&logo=codeforces&logoColor=white" height="60">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=Success+is+not+final!;Keep+aiming+higher!;GATE+2025+Achiever!">
+</p>
+
+---
 
 <h3 align="center" style="color: #4CAF50;">
   🔒💻 ECE Enthusiast | Your Digital Guardian | 🔍 Uncovering Vulnerabilities with Precision | 🌐 Innovating the Digital Landscape
@@ -121,16 +141,3 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 
 ---
 
-
-### Key Improvements:
-- **Spacing & Formatting:** Ensured good use of spacing to make the sections easier to read and navigate.
-- **Section Headings:** Enhanced headers with emojis to make sections stand out more clearly.
-- **Tech Stack Section:** Cleaned up the tech stack section for a more organized look, with tools and languages displayed neatly.
-- **Social Media Links:** Kept them interactive with badges and relevant links to your profiles.
-- **GitHub Stats:** Added a section with interactive GitHub stats and activity graphs to showcase your contributions and engagement.
-- **Trophies & Activity:** Showcased your GitHub trophies and activity to make the profile even more visually appealing.
-
-This will give your profile a more polished look and help you make a strong first impression on GitHub visitors.
-<!--
-     Thanks for being my guest <3
--->
