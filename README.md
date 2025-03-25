@@ -58,7 +58,6 @@
 ---
 
 ### 💬 **Let's Talk About:**
-- 🌐 Cybersecurity & Ethical Hacking
 - 💻 Python, C, Bash Scripting
 - 🚀 GitHub Contributions & Open Source
 - 🔧 Tech Stack Recommendations
