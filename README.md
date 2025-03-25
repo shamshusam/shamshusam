@@ -7,8 +7,8 @@
     You may also want to connect with me on LinkedIn @shamshuddin19 :)) 
 -->
 
-<img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=80&section=header" alt="header"/> 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Shamshuddin+Sam;Electronics+Engineer" alt="Electronic Engg"/> 
@@ -21,18 +21,18 @@
 ## 🎯 **GATE 2025 Achievement**  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/201530693-1e54d95a-635c-4ccf-8b35-3e5c47b2f91e.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/73097560/201530693-1e54d95a-635c-4ccf-8b35-3e5c47b2f91e.gif" width="200">
 </p>
 
 <h1 align="center">🥇 GATE 2025 Qualified! 🥇</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GATE_2025_Rank-6287-purple?style=for-the-badge&logo=codeforces&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/GATE_2025_Score-412-red?style=for-the-badge&logo=codeforces&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/GATE_2025_Rank-6287-purple?style=for-the-badge&logo=codeforces&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/GATE_2025_Score-412-red?style=for-the-badge&logo=codeforces&logoColor=white" height="30">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=4000&color=FF5733&center=true&vCenter=true&lines=Success+is+not+final!;Keep+aiming+higher!;GATE+2025+Achiever!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2000&color=FF5733&center=true&vCenter=true&lines=Success+is+not+final!;Keep+aiming+higher!;GATE+2025+Achiever!">
 </p>
 
 ---
