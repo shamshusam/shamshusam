@@ -112,12 +112,14 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
   </a>
   <br/>
 </details>
-
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>📈 GitHub Activity Graph</summary>
   <br/>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shamshusam&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Shamshuddin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shamshusam&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
+  </a>
 </details>
+
 
 <br/>
 
