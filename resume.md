@@ -1,91 +1,13 @@
-<h1 align="center">🚀 SHAMSHUDDIN 🚀</h1>  
-
-<p align="center">
-  📍 <strong>28th Ward, Chapparada Halli, Hospet, Vijayanagara 583201</strong> <br>
-  📞 <strong>+91 8971815330</strong> <br>
-  📧 <a href="mailto:shamshuddinsam4@gmail.com">shamshuddinsam4@gmail.com</a> <br>
-  🔗 <a href="#">LinkedIn</a> | <a href="https://github.com/shamshusam">GitHub</a>
-</p>
-
----
-
-## 🏆 GATE 2025 Achievement  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GATE_2025_Rank-6287-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GATE_2025_Score-412-orange?style=for-the-badge">
-</p>
-
----
-
-## 🚀 Objective  
-🔹 Passionate Electronics and Communication Engineer with expertise in **IoT, automation, and software development**.  
-🔹 Aspiring to contribute innovative solutions and continuously expand my technical skills.
-
----
-
-## 🛠️ Skills  
-
-### 🔧 Technical Skills  
-✅ **PLC Programming** – Industrial automation & troubleshooting  
-✅ **C/C++ Programming** – Algorithm development & implementation  
-✅ **HTML/CSS** – Building responsive web interfaces  
-✅ **MS Office Suite** – Data analysis, reporting & documentation  
-
-### 💡 Soft Skills  
-🌟 Leadership & Team Building  
-🌟 Effective Communication  
-🌟 Problem-Solving & Analytical Thinking  
-🌟 Professionalism & Ethical Conduct  
-
----
-
-## 💻 Projects  
-
-### 🚘 [Automatic Change-Over Current Limiter (ACCL)](https://github.com/shamshusam/ACCL)  
-🔸 Designed an automated power switching system to **prevent overloads**.  
-🔸 Ensured **safety & efficiency** in electrical power distribution.  
-
-### ☀️ [Solar System Simulation](https://github.com/shamshusam/solar)  
-🔸 Built an **interactive** simulation using HTML, CSS & JavaScript.  
-🔸 Enabled users to **explore planetary orbits** visually.  
-
-### 🚗 [Automatic Car Wiper System](https://github.com/shamshusam/car-wiper-system)  
-🔸 Developed an **Arduino-based** wiper system with rain detection.  
-🔸 Enhanced **safety & driver convenience** through automation.  
-
----
-
-## 💼 Work Experience  
-
-**🛠️ Intern – GTTC Mysore**  
-📅 _Oct 2023 – Nov 2023_  
-🔹 Hands-on experience with **IoT & PLC-based automation projects**.  
-🔹 Designed & programmed **advanced automation systems**.  
-
----
-
-## 🎓 Education  
-
-📌 **Bachelor of Engineering in Electronics & Communication**  
-🏛️ _Alvas Institute of Engineering and Technology (VTU Belgavi)_  
-📊 **GPA: 3.4/4**  
-
-📌 **Diploma in Electrical & Electronic Engineering**  
-🏛️ _Sondur Polytechnic, Yeshwanthnagar_  
-📊 **Graduated: 2022, GPA: 3.4/4**  
-
-📌 **SSLC**  
-🏛️ _PVSBC High School, Hospet_  
-📊 **Graduated: 2018**  
-
----
-
-## 🏆 Certifications  
-
-🎖️ **Salesforce Trailhead** – CRM & Cloud Technology  
-🎖️ **Infosys Certification** – Software Development & Project Execution  
-🎖️ **UI Path Certification** – Robotic Process Automation (RPA)  
+<h1 align="center">🚀 SHAMSHUDDIN 🚀</h1> <p align="center"> <strong><font size="5">Electronics & Communication Engineer</font></strong><br> <strong><font size="4">🌐 Network Engineer | 🤖 IoT & Automation | 💻 Software Development</font></strong> </p> <p align="center"> 📍 <strong>28th Ward, Chapparada Halli, Hospet, Vijayanagara – 583201</strong><br> 📞 <strong>+91 8971815330</strong><br> 📧 <strong><a href="mailto:shamshuddinsam4@gmail.com">shamshuddinsam4@gmail.com</a></strong><br> 🔗 <strong><a href="#">LinkedIn</a> • <a href="https://github.com/shamshusam">GitHub</a></strong> </p>
+<h2>🏆 GATE 2025 Achievement</h2> <p align="center"> <img src="https://img.shields.io/badge/GATE_2025_Rank-6287-2563EB?style=for-the-badge"> <img src="https://img.shields.io/badge/GATE_2025_Score-412-F59E0B?style=for-the-badge"> </p>
+<h2>🎯 Objective</h2> <p> <font size="4"> Passionate <strong>Electronics & Communication Engineer</strong> with expertise in <strong>Network Engineering, IoT, Industrial Automation, and Software Development.</strong> </font> </p> <p> Interested in <strong>network infrastructure, troubleshooting, connectivity, automation, and emerging technologies.</strong> </p>
+<h2>🛠️ Technical Skills</h2> <h3>🌐 Network Engineering</h3> <p> 🔹 <strong><font size="4">Networking Fundamentals</font></strong> – TCP/IP, OSI Model, LAN/WAN<br> 🔹 <strong><font size="4">Routing & Switching</font></strong> – Basic routing and switching concepts<br> 🔹 <strong><font size="4">Network Troubleshooting</font></strong> – Connectivity and configuration troubleshooting<br> 🔹 <strong><font size="4">Network Infrastructure</font></strong> – Basic network setup and maintenance<br> 🔹 <strong><font size="4">Network Security</font></strong> – Fundamental security concepts<br> 🔹 <strong><font size="4">IoT Networking</font></strong> – Device connectivity and communication </p> <h3>⚙️ Industrial Automation</h3> <p> 🔹 <strong><font size="4">PLC Programming</font></strong> – Industrial automation and troubleshooting<br> 🔹 <strong><font size="4">IoT & Automation</font></strong> – IoT-based systems and automation projects<br> 🔹 <strong><font size="4">Arduino</font></strong> – Sensor-based automation systems </p> <h3>💻 Programming & Web Technologies</h3> <p> 🔹 <strong><font size="4">C/C++</font></strong> – Algorithm development and implementation<br> 🔹 <strong><font size="4">HTML/CSS</font></strong> – Responsive web interfaces<br> 🔹 <strong><font size="4">JavaScript</font></strong> – Interactive web applications<br> 🔹 <strong><font size="4">MS Office</font></strong> – Documentation, reporting and data analysis </p> <h3>🤝 Soft Skills</h3> <p> 🌟 <strong><font size="4">Leadership & Team Building</font></strong><br> 🌟 <strong><font size="4">Effective Communication</font></strong><br> 🌟 <strong><font size="4">Problem-Solving & Analytical Thinking</font></strong><br> 🌟 <strong><font size="4">Professionalism & Ethical Conduct</font></strong> </p>
+<h2>💻 Projects</h2> <h3> 🚘 <a href="https://github.com/shamshusam/ACCL"> <font size="5">Automatic Change-Over Current Limiter (ACCL)</font> </a> </h3> <p> 🔹 Designed an automated power switching system to <strong>prevent electrical overloads</strong>.<br> 🔹 Implemented automatic change-over functionality for improved <strong>safety and efficiency</strong>.<br> 🔹 Focused on reliable electrical power distribution and protection. </p> <h3> ☀️ <a href="https://github.com/shamshusam/solar"> <font size="5">Solar System Simulation</font> </a> </h3> <p> 🔹 Developed an <strong>interactive solar system simulation</strong> using HTML, CSS and JavaScript.<br> 🔹 Created visual representations of <strong>planetary orbits and movements</strong>.<br> 🔹 Designed an interactive and user-friendly web interface. </p> <h3> 🚗 <a href="https://github.com/shamshusam/car-wiper-system"> <font size="5">Automatic Car Wiper System</font> </a> </h3> <p> 🔹 Developed an <strong>Arduino-based automatic car wiper system</strong>.<br> 🔹 Implemented rain detection for automatic wiper operation.<br> 🔹 Improved driver convenience through sensor-based automation. </p>
+<h2>💼 Work Experience</h2> <h3>🛠️ <font size="5">Intern – GTTC Mysore</font></h3> <p> 📅 <strong><font size="4">October 2023 – November 2023</font></strong> </p> <p> 🔹 Gained hands-on experience with <strong>IoT and PLC-based automation projects</strong>.<br> 🔹 Worked on programming and implementation of automation systems.<br> 🔹 Developed practical knowledge of industrial automation and troubleshooting. </p>
+<h2>🎓 Education</h2> <h3>🎓 <font size="5">Bachelor of Engineering – Electronics & Communication Engineering</font></h3> <p> 🏛️ <strong>Alvas Institute of Engineering and Technology</strong><br> 🎓 VTU, Belagavi<br> 📊 <strong>GPA: 3.4 / 4.0</strong> </p> <h3>🎓 <font size="5">Diploma – Electrical & Electronics Engineering</font></h3> <p> 🏛️ <strong>Sondur Polytechnic, Yeshwanthnagar</strong><br> 📅 Graduated: <strong>2022</strong><br> 📊 <strong>GPA: 3.4 / 4.0</strong> </p> <h3>🎓 <font size="5">SSLC</font></h3> <p> 🏫 <strong>PVSBC High School, Hospet</strong><br> 📅 Graduated: <strong>2018</strong> </p>
+<h2>🏅 Certifications</h2> <p> 🎖️ <strong><font size="4">Salesforce Trailhead</font></strong> – CRM & Cloud Technology<br> 🎖️ <strong><font size="4">Infosys Certification</font></strong> – Software Development & Project Execution<br> 🎖️ <strong><font size="4">UiPath Certification</font></strong> – Robotic Process Automation (RPA) </p>
+<h2>🌐 Areas of Interest</h2> <p align="center"> <strong> 🌐 Network Engineering &nbsp; • &nbsp; 🔀 Routing & Switching &nbsp; • &nbsp; 🔧 Network Troubleshooting<br><br> 🔐 Network Security &nbsp; • &nbsp; 🤖 IoT & Automation &nbsp; • &nbsp; 💻 Embedded Systems &nbsp; • &nbsp; 👨‍💻 Software Development </strong> </p>
+<h2 align="center">🚀 Always Learning • Always Building • Always Improving 🚀</h2>
 
 ---
 
