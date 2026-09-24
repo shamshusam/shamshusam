@@ -162,7 +162,6 @@
 | MAC & IP Addressing | Network Segmentation | Connectivity Testing |
 
 </p>
-
 ---
 
 ## 🚀 Current Focus
